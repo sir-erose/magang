@@ -1,0 +1,21 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sun Jun  7 23:53:41 2026
+Invocation: foremost disk_rahasia.img 
+Output directory: /Users/dojicams/Downloads/ctf juga/output
+Configuration file: /opt/homebrew/etc/foremost.conf
+------------------------------------------------------------------
+File: disk_rahasia.img
+Start: Sun Jun  7 23:53:41 2026
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+Finish: Sun Jun  7 23:53:41 2026
+
+0 FILES EXTRACTED
+	
+------------------------------------------------------------------
+
+Foremost finished at Sun Jun  7 23:53:41 2026
